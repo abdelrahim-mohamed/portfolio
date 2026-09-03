@@ -147,6 +147,6 @@ document.addEventListener('DOMContentLoaded', () => {
       autoplay: true,
       path: 'assets/animations/leaves.json'
     });
-    animation.setSpeed(0.5);
+    animation.setSpeed(0.9);
   }
 });
